@@ -1,0 +1,4 @@
+name arrival burst deadline
+A 0 5 20
+B 3 10 30
+C 4 12 40
